@@ -65,7 +65,7 @@ const techStack = [
 ];
 
 export default function Landing() {
-  const linkedinUrl = "https://www.linkedin.com/in/shivendra-keshari-46aa67256/";
+  const linkedinUrl = "https://www.linkedin.com/in/ayush-katiyar-31888b256/";
 
   return (
     <div className="min-h-screen bg-background overflow-hidden">
@@ -195,7 +195,7 @@ export default function Landing() {
                       rel="noreferrer"
                       className="hover:text-foreground transition-colors"
                     >
-                      Shivendra Keshari
+                      Ayush Katiyar
                     </a>
                   </p>
               <div className="relative h-[600px]">
