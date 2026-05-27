@@ -27,6 +27,7 @@ import Freelance from "./pages/Freelance";
 import GigDetail from "./pages/GigDetail";
 import NotFound from "./pages/NotFound";
 
+
 const queryClient = new QueryClient();
 
 const App = () => (
