@@ -46,7 +46,7 @@ const App = () => (
                 <Login />
               </PublicRoute>
             }
-          />
+          />2
           <Route
             path="/signup"
             element={
